@@ -1,0 +1,39 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment files
+env/
+.venv/
+env.bak/
+venv.bak/
+.Python
+*.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.so
+*.dll
+*.dylib
+
+# Ignore any backup files
+*~
+*.bak
