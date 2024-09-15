@@ -38,7 +38,7 @@ You will also need the Chrome WebDriver to use Selenium for performance evaluati
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/WebMetricsEvaluation.git
+git clone https://github.com/Quinos2003/WebMetricsEvaluation.git
 cd WebMetricsEvaluation
 ```
 
@@ -47,7 +47,7 @@ cd WebMetricsEvaluation
 pip install -r requirements.txt
 ```
 
-3. Download and set up the Chrome WebDriver from here.
+3. Download and set up the Chrome WebDriver from [here](https://sites.google.com/chromium.org/driver).
 
 4. Place the WebDriver executable in the appropriate path, and update the script if needed.
 
