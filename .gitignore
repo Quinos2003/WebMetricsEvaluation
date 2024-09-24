@@ -25,6 +25,7 @@ Thumbs.db
 
 # Ignore Excel files
 *.xlsx
+*.xlsx#
 
 # Ignore log files
 *.log
